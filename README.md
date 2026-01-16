@@ -443,14 +443,6 @@ val funFacts = mapOf(
 **⭐ Star my repositories if you find them interesting!**  
 **🔔 Follow for updates on exciting projects!**  
 **🤝 Let's connect and build something amazing together!**
-
----
-
-<!-- Designer Credit with Style -->
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=3000&color=888888&center=true&vCenter=true&width=400&lines=Crafted+with+%E2%9D%A4%EF%B8%8F+and+Code;Designed+by+Xenonesis" alt="Designer Credit" />
-
-**🎨 Designed with ❤️ by [Xenonesis](https://github.com/Xenonesis) ✨**
 </div>
 
 </div>
